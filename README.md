@@ -1,0 +1,3 @@
+- Hello, nice to meet you! I’m Sandro De Angelis a code enthusiast from Italy.
+- I’m currently learning how to use Python, Excell, Tableau and R.
+- You can reach me trough email at dnldngls@libero.it
